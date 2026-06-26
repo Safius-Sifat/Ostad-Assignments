@@ -10,7 +10,7 @@ class ProfileProvider extends ChangeNotifier {
   UserProfile get profile => _profile;
 
   static final UserProfile _defaultProfile = UserProfile(
-    name: 'Safius Sifat',
+    name: 'Safiul Islam Sifat',
     role: 'Flutter Developer',
     email: 'sifat@example.com',
     phone: '+880 1234 567890',
