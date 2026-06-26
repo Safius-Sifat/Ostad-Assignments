@@ -2,6 +2,12 @@
 
 A simple Flutter application for students to add subjects with marks, view individual grades, and see a live result summary.
 
+## Screenshots
+
+| Add Subject | Subject List | Summary |
+|-------------|--------------|---------|
+| ![Add Subject Screen](assets/add.png) | ![Subject List Screen](assets/subjects.png) | ![Summary Screen](assets/summary.png) |
+
 ## Features
 
 - **Add Subject** – Enter a subject name and mark (0–100) with form validation.
